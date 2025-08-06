@@ -25,5 +25,5 @@
   },
   "homepage": "https://github.com/byrdsean/pacman#readme",
   "dependencies": {
-    "typescript": "^5.9.2"
-  }}
+  }
+}
