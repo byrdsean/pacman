@@ -1,0 +1,29 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "description": "Typescript/HTML Pacman game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && cp ./styles/styles.css ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byrdsean/pacman.git"
+  },
+  "keywords": [
+    "pacman",
+    "typescript",
+    "javascript",
+    "html",
+    "game"
+  ],
+  "author": "Sean Byrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byrdsean/pacman/issues"
+  },
+  "homepage": "https://github.com/byrdsean/pacman#readme",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }}
